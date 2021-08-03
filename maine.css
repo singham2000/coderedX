@@ -1,0 +1,41 @@
+.start{
+    text-align: center;    
+    color: aqua;
+}
+.logo , .bar-button{
+    text-decoration: none;
+}
+b{
+    font-size: 120px;
+    background-color: rgb(10, 212, 145);
+    padding: 120px;
+    border-radius: 120px;
+    color: rgb(118, 118, 148);
+    text-shadow: 2px 3px aquamarine;
+}
+
+.bar-button{
+    font-family: 'Courier New', Courier, monospace;
+    
+    border-radius: 120px;
+    padding-left: 12px;
+    padding-right: 12px;
+    text-shadow: 2px 2px grey;
+}
+input{
+    border: none;
+    background-color: grey;
+    border-radius: 120px;
+    font-size: 50px;
+    padding-left: 15px;
+    padding-right: 15px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+}
+.container {
+    height: 200px;
+    align-content: center;
+    margin: 100px 580px;
+      }
+  
+  
